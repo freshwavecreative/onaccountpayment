@@ -1,12 +1,12 @@
 {
-  "name": "prestashop/ps_cashondelivery",
-  "description": "PrestaShop module ps_cashondelivery",
-  "homepage": "https://github.com/PrestaShop/ps_cashondelivery",
+  "name": "freshwave/onaccountpayment",
+  "description": "PrestaShop module onaccountpayment",
+  "homepage": "https://github.com/freshwavecreative/onaccountpayment",
   "license": "AFL-3.0",
   "authors": [
     {
-      "name": "PrestaShop SA",
-      "email": "contact@prestashop.com"
+      "name": "Fresh Wave",
+      "email": "mail@freshwavecreative.com"
     }
   ],
   "require": {
