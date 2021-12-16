@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="818340b5-e920-4c3a-a2ef-737c22a0332a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/templates/hook/onaccountpayment_intro.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/views/templates/hook/onaccountpayment_intro.tpl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639581959319</updated>
-      <workItem from="1639581960469" duration="811000" />
+      <workItem from="1639581960469" duration="1857000" />
     </task>
     <servers />
   </component>

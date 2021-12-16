@@ -24,4 +24,5 @@
 *}
 
 <section>
+    <p>{l s='You\'ll receive an invoice after delivery, usually within 48 hours.' d='Modules.Onaccountpayment.Shop'}</p>
 </section>
